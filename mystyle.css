@@ -1,0 +1,14 @@
+h1 {
+    color: rgba(255, 166, 0, 0.707)
+}
+
+body {
+    background-color: rgb(187, 136, 194);
+        }
+
+#content {
+    color: pink;
+    width: 800px ;
+    margin-left: auto;
+    margin-right: auto;
+}
